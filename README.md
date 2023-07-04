@@ -1,11 +1,7 @@
-### Hi there 👋
+### About me
 
 #### I’m currently working on ...
-My thesis and many side projects
-#### I’m currently learning ...
-Raku, Clojure, and other Lisp dialects. I love learning natural languages as well.
-#### I’m looking to collaborate on ...
-Emacs and its extensions or system administration stuff.
+Cool cloud native things like [this one](https://github.com/labring/sealos).
 #### How to reach me: ...
 * email: dinoallo@netc.it
 * website: www.dinoallo.me 
